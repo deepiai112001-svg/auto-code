@@ -1,0 +1,17 @@
+# Binary
+server
+*.exe
+
+# Go build cache
+*.test
+*.out
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Fly.io secrets local (neu co)
+.fly/
